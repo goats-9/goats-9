@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **goats-9/goats-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks for stopping by! You're currently looking at my GitHub homepage. Feel free to check out [my work](https://github.com/goats-9?tab=repositories) and [my website](https://goats-9.github.io).
